@@ -42,7 +42,28 @@ This project explores **COVID-19 case trends** and **vaccination progress** in I
 ✅ **Vaccination rollout progress across states**  
 ✅ **Recovery rate & mortality trends over time**  
 
----
+--
+## ** sample visualisation
 
-## **📂 Project Structure**  
+![Screenshot (198)](https://github.com/user-attachments/assets/ac828e1d-e8c0-4e2d-b46b-82121c7c5c9d)
+![Screenshot (199)](https://github.com/user-attachments/assets/1d0b1df3-20c8-4620-b7c4-8cce2d91a8cc)
+![Screenshot (197)](https://github.com/user-attachments/assets/546c4d1b-b6dc-4c44-8b95-85c7bd5bf1aa)
+
+
+
+
+
+## ✨ Future Improvements
+- Add more advanced data visualizations.
+- Try using **Machine Learning** to predict match outcomes.
+- Make an interactive **dashboard** for better analysis.
+
+## 🤝 Want to Contribute?
+If you have any suggestions, feel free to fork this repo and submit a pull request! 🎉
+
+## 📜 License
+This project is **open-source** and licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**Happy Coding! 🚀😊**
+
 
